@@ -1,0 +1,13 @@
+@import './home';
+@import './icon';
+@import './dog';
+
+
+.container {
+    min-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    display: block;
+    padding: 0 auto;
+}

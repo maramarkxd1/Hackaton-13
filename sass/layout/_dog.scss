@@ -1,0 +1,21 @@
+.home__body {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: repeat(2, auto);
+    grid-gap: 4em;
+    margin-bottom: 4em;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+.home__item {
+    border: 2px solid black;
+    padding: 1em;
+}
+.home__dog {
+    text-align: center;
+}
+.home__img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
